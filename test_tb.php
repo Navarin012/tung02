@@ -5,6 +5,8 @@
     include "conn.php";
 ?>
 
+
+
 <table id="example" class="cell-border table table-striped bg-primary text-white" style="width:50%">
         <thead>
             <tr>

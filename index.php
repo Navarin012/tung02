@@ -9,7 +9,8 @@
  
 <center>
   <h1>gtn238 - group</h1>
-  <h1 class="nav-sty">gtn238 - group</h1>
+
+  <h1 class="nav-sty">.nav-sty</h1>
 </center>
 
 </div>

@@ -1,16 +1,9 @@
 .nav-sty{
     /* background-image: linear-gradient(120deg, red, blue); */
-    font-family: cursive;
-    color: aqua;
+    /* font-family: cursive; */
+    color: rgb(255, 0, 191);
 }
 
 .tb1{
-    position: absolute;
-    width: 1178px;
-    height: 617px;
-    left: 131px;
-    top: 387px;
-
-    background: #9DD0FF;
-    border-radius: 25px;
+    background-color: aqua;
 }
