@@ -3,3 +3,14 @@
     font-family: cursive;
     color: aqua;
 }
+
+.tb1{
+    position: absolute;
+    width: 1178px;
+    height: 617px;
+    left: 131px;
+    top: 387px;
+
+    background: #9DD0FF;
+    border-radius: 25px;
+}

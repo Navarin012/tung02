@@ -28,6 +28,10 @@
         <a class="nav-link active" href="showStd.php">Show Student <Datag></Datag></a>
       </li>
 
+      <li class="nav-item text-warning">
+        <a class="nav-link active" href="test_tb.php">Test-TB <Datag></Datag></a>
+      </li>
+
     </ul>
   </div>
 </nav>

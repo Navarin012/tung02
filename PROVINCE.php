@@ -5,7 +5,7 @@
     include "conn.php";
 ?>
 <div class="container mt-5">
-<table class="table table-primary table-hover table-striped table-bordered " style="">
+<table class="table table-primary table-hover table-striped table-bordered tb1" style="">
     <tr>
       <th>CODE</th>
       <th>NAME</th>
